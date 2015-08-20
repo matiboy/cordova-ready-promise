@@ -1,0 +1,8 @@
+{
+  "name": "cordova-ready-promise",
+  "description": "Get a promise that resolves when Cordova is ready",
+  "main": "dist/cordova-ready-promise.js",
+  "version": "0.0.1",
+  "dependencies": {}
+}
+
